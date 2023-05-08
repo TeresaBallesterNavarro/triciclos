@@ -1,0 +1,9 @@
+Una vez que la corrección está entendida,
+se puede pensar mucho sobre la eficiencia de las operaciones que llevamos a cabo.
+
+Al proponer algún ejercicio de grafos a las alumnas, las soluciones que ofrecen son muy variadas y siempre surge la duda de cuál es la mejor.
+
+Por ejemplo, algunos ejercicios de grafos emiten los pares 'duplicados' A,B y B,A para luego hacer más cosas... Esto 'duplica' la información, es necesario...
+Alternativas: en lugar de duplicar al principio, es posible emitir ordenado limpiar y luego, duplicar. Además, el join evita algún problema para mezclar las claves.(pensar en estas alternativas). 
+
+
